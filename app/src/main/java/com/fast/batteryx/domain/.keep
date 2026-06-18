@@ -1,0 +1,3 @@
+// This file establishes the domain layer package structure
+// This directory contains: use cases, repositories interfaces, and domain models
+
